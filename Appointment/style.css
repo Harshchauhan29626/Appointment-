@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&family=Poppins:wght@400;500;600;700&family=Roboto:wght@400;500&family=Rubik&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    top: 25%;
+    left: 10%;
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+}
+
+.h1 {
+    border: 1px solid;
+    border-radius: 20px;
+    width: 15vh;
+    font-size: 2.5vh;
+    padding-left: 4vh;
+    height: 3vh;
+    padding-top: 3px;
+    font-size: small;
+    margin-bottom: 2vh;
+}
+
+.h2 {
+    color: rgb(52, 52, 121);
+    margin-bottom: 2vh;
+}
+
+.h3 {
+    font-size: 2vh;
+    margin-right: 5vh;
+}
+
+.div1 {
+    display: flex;
+}
+
+.div2 {
+    width: 70vh;
+    height: 12vh;
+    background-color: rgb(212, 221, 236);
+    display: flex;
+    margin-bottom: 3vh;
+}
+
+
+.text {
+    background-color: white;
+    border: 1px solid white;
+}
+
+.form {
+    background-color: rgb(212, 221, 236);
+    border: 1px solid white;
+}
+
+
+.btn {
+    width: 94%;
+    height: 4vh;
+    margin-left: 2vh;
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(62, 62, 179);
+    margin-top: 2vh;
+    margin-bottom: 10vh;
+    color: white;
+
+}
+
+.logo {
+    width: 25px;
+    padding: 4vh;
+}
+
+.call_mail {
+    padding: 3vh;
+    font-size: 2.4vh;
+}
+
+.input1 {
+    margin-left: 2vh;
+    margin-right: 2vh;
+    border: none;
+    border-radius: 4px;
+    padding: 1vh;
+    margin-top: 10vh;
+}
+
+.input2 {
+    margin-left: 2vh;
+    margin-right: 2vh;
+    border: none;
+    border-radius: 4px;
+    padding: 1vh;
+    margin-top: 1vh;
+}
+
+.input3 {
+    margin-left: 2vh;
+    margin-right: 2vh;
+    border: none;
+    border-radius: 4px;
+    padding: 1vh;
+    margin-top: 1vh;
+}
+
+.textarea {
+    margin-left: 2vh;
+    margin-right: 2vh;
+    margin-top: 1vh;
+    border: none;
+    border-radius: 4px;
+}
